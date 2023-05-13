@@ -10,7 +10,7 @@ public class ptb2
         Scanner sc=new Scanner(System.in);
           double a,b,c;
           double x1,x2,delta;
-          System.out.println("nhap he so a:");
+          System.out.println("nhap he so ....a:");
           a= sc.nextDouble();
           System.out.println("nhap he so b:");
           b= sc.nextDouble();
