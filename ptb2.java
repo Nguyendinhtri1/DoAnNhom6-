@@ -32,7 +32,7 @@ public class ptb2
               x2=(-b+Math.sqrt(delta))/(2*a);
               System.out.println("phuong trinh co nghiem");
               System.out.println("x1= "+x1);
-              System.out.println("x2= "+x2);Dadaddfefa
+              System.out.println("x2= "+x2);
           }
 
     }
